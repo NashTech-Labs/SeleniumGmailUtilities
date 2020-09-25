@@ -1,0 +1,7 @@
+/target/
+
+### STS ###
+.project
+.settings/
+.classpath
+
